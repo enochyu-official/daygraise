@@ -43,7 +43,7 @@ I have not created different methods to distribute the program yet.
 * To run the program, you can do the following.
 1. Clone the repository.
 ```
-git clone
+git clone git@github.com:enochyu-official/daygraise.git daygraise
 ```
 
 2. Enable virtual environment and install dependencies
